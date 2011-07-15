@@ -1,0 +1,5 @@
+15 Tem 2011 16:41:04,125 INFO  ~ Starting C:\4primesproject\yabe
+15 Tem 2011 16:41:05,176 WARN  ~ You're running Play! in DEV mode
+15 Tem 2011 16:41:05,385 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+15 Tem 2011 16:41:16,123 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+15 Tem 2011 16:41:17,937 INFO  ~ Application 'y' is now started !
